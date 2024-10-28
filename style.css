@@ -82,11 +82,13 @@ body {
 h1{
     font-family: "Londrina Sketch", serif;
     font-size: 50px;
+    font-weight: 900px;
 }
 
 .description{
     font-family: "Londrina Sketch", serif;
     font-size: 40px;
+    font-weight: 900px;
 }
 
 .web {
