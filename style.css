@@ -84,12 +84,14 @@ h1{
     font-family: "Caveat", cursive;
     font-size: 50px;
     font-weight: 800;
+    color: #EEEEEE;
 }
 
 .description{
     font-family: "Caveat", cursive;
     font-size: 40px;
     font-weight: 800;
+    color: #EEEEEE;
 }
 
 .web {
