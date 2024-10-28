@@ -50,6 +50,8 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 
 .resume {
@@ -74,28 +76,25 @@ body {
 
 .welcome {
     color: #EEEEEE;
-    font-family: "DynaPuff", system-ui;
+    font-family: "Caveat", cursive;
     
 }
 
 h1{
-    font-family: "Londrina Sketch", serif;
+    font-family: "Caveat", cursive;
     font-size: 50px;
     font-weight: 800;
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale;
 }
 
 .description{
-    font-family: "Londrina Sketch", serif;
+    font-family: "Caveat", cursive;
     font-size: 40px;
     font-weight: 800;
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale;
 }
 
 .web {
     color: #11d5df;
+    margin: 0px 5px;
 }
 
 ul {
