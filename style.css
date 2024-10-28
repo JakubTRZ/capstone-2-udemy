@@ -63,8 +63,7 @@ body {
     text-align: center;
     width: auto;
 }
-
-
+  
 .image {
     border: 5px solid black;
     height: 200px;
@@ -81,16 +80,14 @@ body {
 
 h1{
     font-family: "Londrina Sketch", serif;
-    font-weight: 800;
-    font-style: normal;
     font-size: 50px;
+    font-weight: 800;
 }
 
 .description{
     font-family: "Londrina Sketch", serif;
-    font-weight: 800;
-    font-style: normal;
     font-size: 40px;
+    font-weight: 800;
 }
 
 .web {
