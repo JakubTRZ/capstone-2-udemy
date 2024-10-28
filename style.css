@@ -82,12 +82,16 @@ h1{
     font-family: "Londrina Sketch", serif;
     font-size: 50px;
     font-weight: 800;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .description{
     font-family: "Londrina Sketch", serif;
     font-size: 40px;
     font-weight: 800;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .web {
